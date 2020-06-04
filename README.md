@@ -7,7 +7,7 @@ O padrão de design do MVVM permite que você desenvolva aplicativos que podem s
 
 O projeto é um exemplo de como consumir uma API de usuários e exibir em uma UITableView. 
 
-Agradecimentos ao seriviço: https://jsonplaceholder.typicode.com
+Agradecimentos ao serviço: https://jsonplaceholder.typicode.com
 
 #-----------------------------------------------------------------------------#
 
