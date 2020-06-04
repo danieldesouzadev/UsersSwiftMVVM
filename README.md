@@ -1,7 +1,7 @@
 # UsersSwiftMVVM
 Example Swift with MVVM consulting an api
 
-![](gif/users-mvvm.gif)
+![](gif/users-mvvm-swift.gif)
 
 O padrão de design do MVVM permite que você desenvolva aplicativos que podem ser facilmente mantidos e testados. 
 
